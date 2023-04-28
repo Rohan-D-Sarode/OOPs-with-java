@@ -1,0 +1,4 @@
+Non implemented calss can accesss interface conttents using " InterfaceName.constName
+
+array can only be primitive type of reference type. There is nothing such as array on object in java.
+

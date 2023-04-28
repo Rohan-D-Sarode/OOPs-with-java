@@ -1,0 +1,4 @@
+- In java 8 onwards if you put wrong date it'll adjust the date accordingly.
+- outer try = try from which another try is called. Inner try = try called from another try.
+- Jvm check before return from the method and check whether if the method has any finally clause. It found it executes the finally data.
+- 
